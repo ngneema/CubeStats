@@ -1,0 +1,13 @@
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\CubeStats.exe.config
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\CubeStats.exe
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\CubeStats.pdb
+C:\Users\carrellm\code\CubeStats\CubeStats\obj\Debug\CubeStats.csprojResolveAssemblyReference.cache
+C:\Users\carrellm\code\CubeStats\CubeStats\obj\Debug\CubeStats.exe
+C:\Users\carrellm\code\CubeStats\CubeStats\obj\Debug\CubeStats.pdb
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\FileHelpers.dll
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\FileHelpers.ExcelStorage.dll
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\FileHelpers.xml
+C:\Users\carrellm\code\CubeStats\CubeStats\bin\Debug\FileHelpers.ExcelStorage.xml
+C:\Users\carrellm\code\CubeStats\CubeStats.git\CubeStats\bin\Debug\CubeStats.exe.config
+C:\Users\carrellm\code\CubeStats\CubeStats.git\CubeStats\obj\Debug\CubeStats.exe
+C:\Users\carrellm\code\CubeStats\CubeStats.git\CubeStats\obj\Debug\CubeStats.pdb
